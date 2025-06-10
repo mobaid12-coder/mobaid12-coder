@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
 
-<!--
-**mobaid12-coder/mobaid12-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Details
+- **Status:** Student
+- **LinkedIn:** [www.linkedin.com/in/malik-obaid-analyst](https://www.linkedin.com/in/malik-obaid-analyst)
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Excel
+- PowerBI
+- Matplotlib
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- I have not worked on any projects yet. Looking to work on projects.
+
+## Hobbies
+- Reading Books
+- Taking Walks
+
+## Personality
+- Minimalist
