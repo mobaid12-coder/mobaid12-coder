@@ -6,13 +6,14 @@
 
 ## Skills
 - Python
+- Flutter
 - Excel
 - PowerBI
 - Matplotlib
 - Data Analysis
 
 ## Projects
-- I have not worked on any projects yet. Looking to work on projects.
+- I have worked on some Data Analytics and Flutter projects.
 
 ## Hobbies
 - Reading Books
